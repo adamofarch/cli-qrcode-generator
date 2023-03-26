@@ -16,4 +16,4 @@ Open CMD if you're using windows and terminal if you're using Linux and type :
 
 ### Now just open the script and follow the prompt to quickly generate a qrcode. 
 
-## Feel free to report bugs and or ask questions if you're having trouble using this script in **[Issues](https://github.com/adamofarch/cli-qrcode-generator/issues)**
+## Feel free to report bugs or ask questions if you're having trouble using this script in **[Issues](https://github.com/adamofarch/cli-qrcode-generator/issues)**
